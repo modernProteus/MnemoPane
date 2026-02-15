@@ -1,5 +1,19 @@
 🔹 README.md (V1 Draft)
 
+## 🌌 Vision
+
+MnemoPane is not a screen — it is a quiet window.
+
+A pane of still light that gathers moments and holds them gently, 
+like constellations arranged across time. Inspired by Mnemosyne, 
+the keeper of memory, it exists not to stream endlessly, 
+but to pause — to let memory breathe.
+
+Images arrive softly. They linger. They change slowly.
+
+MnemoPane is designed to feel less like technology 
+and more like a framed whisper from another day.
+
 # MnemoPane
 
 MnemoPane is a low-power, Wi-Fi enabled e-paper picture frame designed to feel less like a screen and more like a window into memory.
